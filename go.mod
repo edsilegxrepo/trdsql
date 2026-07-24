@@ -17,7 +17,7 @@ require (
 	github.com/noborus/tbln v0.0.2
 	github.com/olekukonko/tablewriter v1.1.4
 	github.com/pierrec/lz4/v4 v4.1.27
-	github.com/ulikunitz/xz v0.5.15
+	github.com/ulikunitz/xz v0.5.16
 	golang.org/x/term v0.45.0
 	modernc.org/sqlite v1.53.0
 )
