@@ -9,7 +9,7 @@ require (
 	github.com/jwalton/gchalk v1.3.0
 	github.com/klauspost/compress v1.19.0
 	github.com/lib/pq v1.12.3
-	github.com/mattn/go-runewidth v0.0.24
+	github.com/mattn/go-runewidth v0.0.27
 	github.com/mattn/go-sqlite3 v1.14.48
 	github.com/multiprocessio/go-sqlite3-stdlib v0.0.0-20220822170115-9f6825a1cd25
 	github.com/noborus/guesswidth v0.5.0
