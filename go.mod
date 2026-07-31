@@ -19,7 +19,7 @@ require (
 	github.com/pierrec/lz4/v4 v4.1.27
 	github.com/ulikunitz/xz v0.5.15
 	golang.org/x/term v0.45.0
-	modernc.org/sqlite v1.53.0
+	modernc.org/sqlite v1.55.0
 )
 
 require (
